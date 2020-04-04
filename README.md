@@ -13,4 +13,4 @@ drinks in the stores.
 
 ### . Blog Website
 
-A blog has been published in this [site]( https://mohancr97.github.io/Starbucks_CapstoneProject/.)
+A blog has been published in this [site]( https://medium.com/@vishalsiram50/starbucks-capstone-project-8a6f23a8f4cd?sk=3e3fb46429588bda0ba56011818eb18c/.)
