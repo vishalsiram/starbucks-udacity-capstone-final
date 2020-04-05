@@ -43,6 +43,12 @@ In this stage, we analyzed the population based on their demographics and their 
 We used a knowledge based recommendation engine in this project. We provided one that selects the most popular offers without considering demographics, first. This system is a good start for customers that do not provide any demographic data in the app.
 
 For the rest of costumers, we introduced filters that help the system make recommendations based on the demographic data provided by the customers.
+## 5. Helper python code
+
+the helper.py code contains the comments of all function which is commented in code.
+clean_portfolio - Clean the portfolio dataset
+clean_profile - Clean the profile dataset
+clean_transcript - Clean the transcript dataset
 
 
 ### . Blog Website
