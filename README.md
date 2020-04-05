@@ -9,6 +9,9 @@ The project was implemented using Jupyter Notebooks, Python and libraries used f
 ## Methodology
 In this project, we use the techniques used in a regular data science project to try to solve real world problem.
 
+## Metrics
+The metric I used this project is accuracy. Since we have a simple classification problem, I will use accuracy to evaluate my models. We want to see how well our model by seeing the number of correct predictions vs total number of predictions. For the different models I used in this project, I checked the accuracy my training and testing data sets and decided which to choose based on it.
+
 ## 1. Business Understanding
 To guide the project, the following questions were considered:
 
@@ -43,12 +46,6 @@ In this stage, we analyzed the population based on their demographics and their 
 We used a knowledge based recommendation engine in this project. We provided one that selects the most popular offers without considering demographics, first. This system is a good start for customers that do not provide any demographic data in the app.
 
 For the rest of costumers, we introduced filters that help the system make recommendations based on the demographic data provided by the customers.
-## 5. Helper python code
-
-the helper.py code contains the comments of all function which is commented in code.
-clean_portfolio - Clean the portfolio dataset
-clean_profile - Clean the profile dataset
-clean_transcript - Clean the transcript dataset
 
 
 ### . Blog Website
